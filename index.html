@@ -1,66 +1,30 @@
 <!DOCTYPE html>
-</html lang="en">
+<html>
   <head>
-     <title>My portfolio!</title>
-     <link rel="css/styles.css" href="style.css">
-     <style>
- /* Style the top navigation bar */
- .navbar {
-  overflow: hidden;
-  background-color: crimson;
-}         
-/* Style the navigation bar links */
-.navbar a {
-  float: left;
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 13px 18px;
-  text-decoration-color: darkblue;
-}
-/* Header/Logo Title */
-.header {
-  padding: 40px;
-  text-align: center;
-  background-color: darkgray;
-  color: black;
-  font-size: 15px;
-}
-/* Right-aligned link */
-.navbar a.right {
-  float: right;
-}
-/* Change color on hover */
-.navbar a:hover {
-  background-color: cadetblue;
-  color: black;
-/* Page Content */
-.content {padding:20px;}
+    <link rel="stylesheet" href="style.css" type="text/css">
 
-/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 700px) {
-  .row {   
-    flex-direction: column;
-  }
-}
-
-/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
-@media screen and (max-width: 400px) {
-  .navbar a {
-    float: none;
-    width: 100%;
-  }
-}
 </style>
-    </head>
-    <body>
+</head>
+<body>
+    <nav>
+    <div class="navbar">
+        <ul>                        
+            <a href="#index.html" class="right">Home page</a>
+            <a href="#about-me.html" class="right">About me</a>
+            <a href="#education.html" class="right">Education background</a>
+            <a href="#interest.html" class="right">Interests</a>
+        </ul>  
+    </div>
+    </nav>
+    <nav>     
     <div class="header">
     <h1>My portfolio</h1>
     <p>Kevin Okioma</p>
+    <h2>My photo:</h2>
+    <div class="fakeimg" style="height:300px;">Image</div>
     </div>
-
+   </nav> 
     <div class="content">
-            <h1>About me.</h1>
             <p>I am a 35 year old male.</p>
             <p>I have a degree in business statistics from Makerere university in Uganda.</p>
             <p>I am currently unemployed.My most recent Job was working for a start-up company called Gametech as an operations manager.</p>
