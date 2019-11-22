@@ -1,11 +1,11 @@
 *.header h1 {
-    font-size: 40px;
+    font-size: 30px;
   }
  .header {
-    padding: 80px;
+    padding: 50px;
     text-align: center;
-    background-color: grey;
-    color: rgb(206, 16, 16);
+    background-color: rgb(219, 211, 211);
+    color: rgb(10, 1, 1);
   }
   {
     box-sizing: border-box;
@@ -18,7 +18,7 @@
  
   .navbar {
     overflow: hidden;
-    background-color: blanchedalmond;
+    background-color: rgb(133, 129, 124);
 /
  .navbar a {
     float: left;
@@ -32,23 +32,23 @@
     float: right;
   }
   .navbar a:hover {
-    background-color: #ddd;
+    background-color: rgb(163, 159, 159);
     color: black;
   }
   .row {  
-    display: -ms-flexbox; /* IE10 */
+    display: -ms-flexbox; 
     display: flex;
-    -ms-flex-wrap: wrap; /* IE10 */
+    -ms-flex-wrap: wrap; 
     flex-wrap: wrap;
   }
   .side {
-    -ms-flex: 30%; /* IE10 */
+    -ms-flex: 30%; 
     flex: 30%;
     background-color: #f1f1f1;
     padding: 20px;
   }
   .main {   
-    -ms-flex: 70%; /* IE10 */
+    -ms-flex: 70%;
     flex: 70%;
     background-color: white;
     padding: 20px;
