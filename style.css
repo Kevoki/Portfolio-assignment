@@ -29,7 +29,7 @@
     text-decoration: brown;
   }
   .navbar a.right {
-    float: right;
+    float: center;
   }
   .navbar a:hover {
     background-color: rgb(163, 159, 159);
