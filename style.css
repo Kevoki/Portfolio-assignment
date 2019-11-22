@@ -7,6 +7,24 @@
     background-color: rgb(146, 110, 110);
     color: rgb(10, 1, 1);
   }
+  .header2 {
+    background-color: cadetblue;
+    color: black;
+    text-align: center;
+    padding: 20px;
+  }
+  .header3 {
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+    padding: 20px;
+  }
+  .header4 {
+    background-color: burlywood;
+    color: black;
+    text-align: center;
+    padding: 20px;
+  }
   {
     box-sizing: border-box;
   }
