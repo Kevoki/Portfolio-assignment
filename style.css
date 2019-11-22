@@ -31,23 +31,23 @@
   .navbar a.right {
     float: center;
   }
-  .navbar a:hover {
+.navbar a:hover {
     background-color: rgb(163, 159, 159);
     color: black;
   }
-  .row {  
+.row {  
     display: -ms-flexbox; 
     display: flex;
     -ms-flex-wrap: wrap; 
     flex-wrap: wrap;
   }
-  .side {
+.side {
     -ms-flex: 30%; 
     flex: 30%;
     background-color: #f1f1f1;
     padding: 20px;
   }
-  .main {   
+.main {   
     -ms-flex: 70%;
     flex: 70%;
     background-color: white;
@@ -56,5 +56,7 @@
   .peace {
     float: right;
   }
+.content {
 
+}
   
