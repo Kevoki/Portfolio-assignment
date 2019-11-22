@@ -3,8 +3,8 @@
   }
  .header {
     padding: 50px;
-    text-align: center;
-    background-color: rgb(219, 211, 211);
+    text-align: ;
+    background-color: rgb(146, 110, 110);
     color: rgb(10, 1, 1);
   }
   {
@@ -19,14 +19,14 @@
   .navbar {
     overflow: hidden;
     background-color: rgb(133, 129, 124);
-/
+  }
  .navbar a {
-    float: left;
+    float: right;
     display: block;
     color: white;
     text-align: center;
     padding: 14px 20px;
-    text-decoration: none;
+    text-decoration: brown;
   }
   .navbar a.right {
     float: right;
@@ -53,5 +53,8 @@
     background-color: white;
     padding: 20px;
   }
-  
+  .peace {
+    float: right;
+  }
+
   
