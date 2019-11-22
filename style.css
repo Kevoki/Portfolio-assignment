@@ -4,6 +4,16 @@
  .header {
     padding: 80px;
     text-align: center;
-    background: #1abc9c;
-    color: white;
+    background-color: grey;
+    color: rgb(206, 16, 16);
   }
+  {
+    box-sizing: border-box;
+  }
+  /* Style the body */
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+  }
+  
+  
