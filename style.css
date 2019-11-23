@@ -14,26 +14,54 @@
     padding: 20px;
   }
 .header3 {
-    background-color: blueviolet;
-    color: black;
-    text-align: center;
+    background-color: rgb(84, 62, 104);
+    color: rgb(165, 158, 158);
+    text-align: justify ;
     padding: 20px;
   }
 .header4 {
     background-color: rgba(41, 29, 27, 0.795);
-    color: black;
+    color: rgb(182, 181, 181);
     text-align: center;
     padding: 20px;
   }
+  h1 {
+    color: mediumblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xxx-large;
+  }
+  h2 {
+    color: mediumblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    }
+  h3 {
+    color: rgb(8, 3, 5);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    
+  }  
+  h4 {
+    color: mediumblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+  }
+
 body {
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
+    background-color: rgb(199, 199, 199);
+    margin: 70;
   }
-  
+/* The top navigation bar */ 
 .navbar {
     overflow: hidden;
     background-color: rgb(133, 129, 124);
   }
+/* The navigation bar links */
 .navbar a {
     float: right;
     display: block;
@@ -42,30 +70,42 @@ body {
     padding: 14px 20px;
     text-decoration: brown;
   }
-  .navbar a.right {
+/* Right-aligned link */
+.navbar a.right {
     float: center;
   }
+/* Change color on hover */
 .navbar a:hover {
-    background-color: rgb(163, 159, 159);
+    background-color: rgb(133, 138, 132);
     color: black;
   }
+/*adjusting about me navigation bar*/
+.navbar1 {
+    overflow: hidden;
+    background-color: rgb(101, 110, 101);
+    margin: 1;
+  }
+/*adjusting education navigation bar*/  
+  .navbar2 {
+    overflow: hidden;
+    background-color: rgb(137, 138, 101);
+    margin: 1;
+  }
+/*adjusting interest navigation bar*/ 
+.navbar3 {
+  overflow: hidden;
+  background-color: rgb(240, 173, 128);
+  margin: 1;
+}
 .row {  
     display: -ms-flexbox; 
     display: flex;
     -ms-flex-wrap: wrap; 
     flex-wrap: wrap;
   }
-.side {
-    -ms-flex: 30%; 
-    flex: 30%;
-    background-color: #f1f1f1;
-    padding: 20px;
-  }
-.main {   
-    -ms-flex: 70%;
-    flex: 70%;
-    background-color: white;
-    padding: 20px;
+  img {
+    height: 10%;
+    width: 50%;
   }
 .peace {
     float: right;
