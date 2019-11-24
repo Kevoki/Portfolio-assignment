@@ -2,15 +2,15 @@
 #### This is a website about my portfolio, 24th/nov/2019}
 #### By **kevin okioma**
 ## Description
-This is an application on **details** about me. It's purpose is to tell potential _employers_ and _collaborators_ more about me.
+This is an application on **profile** about me. It's purpose is to tell potential _employers_ and _collaborators_ more about me.
 ## Setup/Installation Requirements
 * $ npm install Portfolio
 ## More on the application
-This is a simple application is to show my profile to potential employers.A server is not required to run this application, a normal internet connection will suffice to run the application. You do not need to install any dependencies. The application is very basic and light. 
+This is a simple application is to show my profile to potential employers. A server is not required to run this application, a normal internet connection will suffice to run the application. You do not need to install any dependencies. The application is very basic and light. 
 ## Known Bugs
 I have not encountered any problems with bugs in this aplication.
 ## Technologies Used
-I used HTML and CSS languages to build the website.
+I used **HTML** and **CSS** languages to build the website.
 ## Support and contact details
 If you have questions or you have encountered any issues, ideas or concerns, I urge you to contact me or make a contribution to the code.
 ### License
