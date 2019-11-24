@@ -2,7 +2,7 @@
     font-size: 30px;
   }
 .header {
-    padding: 30px;
+    padding: 20px;
     text-align: center;
     background-color: rgba(228, 216, 177, 0.959);
     color:mediumblue;
@@ -54,7 +54,7 @@ body {
     border-right: 4px solid lightblue;
     border-top: 6px solid lightblue;
     border-bottom: 8px solid lightblue;
-    padding: 10px 30px;
+    padding: 8px 30px;
   }
 /* The navigation bar links */
 .navbar a {
@@ -63,7 +63,7 @@ body {
     display: block;
     color: white;
     text-align: center;
-    padding: 10px 30px;
+    padding: 8px 30px;
     text-decoration: rgb(33, 5, 189);
   }
 /* Right-aligned link */
