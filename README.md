@@ -1,21 +1,20 @@
-# {Portfolio}
-#### {This is a website about my portfolio}, {10/oct/2019}
-#### By **{kevin okioma}**
+# Portfolio
+#### This is a website about my portfolio, 24th/nov/2019}
+#### By **kevin okioma**
 ## Description
-{This is an application on **details** about me. Its purpose is is using it to tell potential _employers_ more about me.}
+This is an application on **details** about me. Its purpose is is using it to tell potential _employers_ more about me.
 ## Setup/Installation Requirements
 * $ npm install Portfolio
-
-{This is a simple application is to show my profile to potential employer. You don't need to run a server, a normal internet connection will suffice to run the application. No you won't need to install any dependencies. The application is very basic and light. }
+This is a simple application is to show my profile to potential employers.A server is not required to run this application, a normal internet connection will suffice to run the application. You do not need to install any dependencies. The application is very basic and light. 
 ## Known Bugs
-{I hace not encountered any problems with bugs in this aplication.}
+I have not encountered any problems with bugs in this aplication.
 ## Technologies Used
-{I used HTML and CSS languages to build the website.}
+I used HTML and CSS languages to build the website.
 ## Support and contact details
-{If you have questions or you have encountered any issues or have any questions, ideas or concerns, I urge you to make to contact me or make a contribution to the code.}
+If you have questions or you have encountered any issues, ideas or concerns, I urge you to contact me or make a contribution to the code.
 ### License
 
-*{The MIT License (MIT)
+*The MIT License (MIT)
 
 Copyright (c) .NET Foundation and Contributors
 
@@ -37,5 +36,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE..}*
-Copyright (c) {2019} **{Contributers. Kevin Okioma}**
+SOFTWARE..*
+Copyright (c) {2019} **Contributers. Kevin Okioma**
+### Link to live site on Github pages
+<a href="https://kevoki.github.io/Portfolio-assignment.github.io/">This is a portfolio assignment</a>
