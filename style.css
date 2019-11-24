@@ -5,47 +5,25 @@
     padding: 30px;
     text-align: center;
     background-color: rgba(228, 216, 177, 0.959);
-    color:black;
+    color:mediumblue;
   }
-.header2 {
-    background-color: rgb(7, 94, 97);
-    color: black;
-    text-align: center;
-    padding: 20px;
-  }
-.header3 {
-    background-color: rgb(84, 62, 104);
-    color: rgb(165, 158, 158);
-    text-align: justify ;
-    padding: 20px;
-  }
-.header4 {
-    background-color: rgba(41, 29, 27, 0.795);
-    color: rgb(182, 181, 181);
-    text-align: center;
-    padding: 20px;
-  }
-  h1 {
-    color: rgb(11, 11, 247);
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: xxx-large;
-  }
+  /* styles on the second heading on the home page */ 
   h2 {
     color: mediumblue;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
     }
+    /* Styles on the third heading on the home page */ 
   h3 {
-    color: rgb(8, 3, 5);
+    color: rgb(13, 17, 221);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
-    
   }  
+  /* Styles on the fourth heading on the home page */ 
   h4 {
-    color: mediumblue;
+    color: rgb(205, 82, 0);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
@@ -55,12 +33,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
   }
-  h6 {
-    color: whitesmoke;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: larger;
-  }
-
+/* The styles on the body */
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(199, 199, 199);
@@ -70,12 +43,12 @@ body {
 .navbar {
     overflow: hidden;
     background-color: rgb(133, 129, 124);
-    border: 4px lawngreen;
-    border-left: 4px solid lawngreen;
-    border-right: 4px solid lawngreen;
-    border-top: 6px solid lawngreen;
-    border-bottom: 8px solid rgb(83, 33, 33);
-    padding: 15px 20px;
+    border: 4px lightblue;
+    border-left: 4px solid lightblue;
+    border-right: 4px solid lightblue;
+    border-top: 6px solid lightblue;
+    border-bottom: 8px solid lightblue;
+    padding: 10px 30px;
   }
 /* The navigation bar links */
 .navbar a {
@@ -84,7 +57,7 @@ body {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 20px;
+    padding: 10px 30px;
     text-decoration: rgb(33, 5, 189);
   }
 /* Right-aligned link */
@@ -93,25 +66,23 @@ body {
   }
 /* Change color on hover */
 .navbar a:hover {
-    background-color: rgb(133, 138, 132);
     color: black;
   }
 }
-  img {
+/* Styles on image */
+img {
     height: 10%;
     width: 50%;
   }
-.peace {
-    float: right;
-  }
-.about me {
-text-align: center ;
-}
+ /* Styles on footer */
 .footer {
   text-align: center;
   font: small;
-  color: blue;
+  color: rgb(28, 171, 228);
 }
-
+p {
+  color: black);
+  font-family: 'Times New Roman', Times, serif;
+}
 
   
