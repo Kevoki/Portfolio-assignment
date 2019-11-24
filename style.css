@@ -84,5 +84,17 @@ p {
   color: black);
   font-family: 'Times New Roman', Times, serif;
 }
+/* styles span*/
+.important {
+  color:blue;
+}
+/* styles span*/
+.tech {
+  color:blue;
+}
+/* styles span*/
+.color {
+  color: darkorange;
+}
 
   
