@@ -2,7 +2,7 @@
     font-size: 30px;
   }
 .header {
-    padding: 20px;
+    padding: 5px;
     text-align: center;
     background-color: rgba(228, 216, 177, 0.959);
     color:mediumblue;
@@ -32,6 +32,11 @@
     color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
+  }
+  h4 {
+    color: rgb(1, 41, 150);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
   }
   /* Styles on the sixth heading on the projects */ 
   h6 {
