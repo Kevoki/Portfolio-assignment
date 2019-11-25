@@ -40,4 +40,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE..*
 Copyright (c) {2019} **Contributers. Kevin Okioma**
 ### Link to live site on Github pages
-<a href="https://kevoki.github.io/Portfolio-assignment.github.io/">This is a portfolio assignment</a>
+<a href="https://kevoki.github.io/Portfolio-assignment/">This is a portfolio assignment</a>
