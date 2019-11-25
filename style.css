@@ -82,9 +82,17 @@ img {
   }
  /* Styles on footer */
 .footer {
+  overflow: hidden;
+  background-color: rgb(133, 129, 124);
+  border: 4px lightblue;
+  border-left: 4px solid darkgray;
+  border-right: 4px solid darkgray;
+  border-top: 6px solid darkgray;
+  border-bottom: 8px solid darkgray;
+  padding: 8px 30px;
   text-align: center;
   font: small;
-  color: rgb(28, 171, 228);
+  color: rgb(7, 24, 124);
 }
 p {
   color: black);
@@ -101,6 +109,9 @@ p {
 /* styles span*/
 .color {
   color: darkorange;
+}
+.margin {
+  color: blue;
 }
 
   
